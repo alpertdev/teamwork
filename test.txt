@@ -1,3 +1,4 @@
 File ban dau
 dev: commit first time
 ngo: commit first time
+* Add new branch : development and set default branch
